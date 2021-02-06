@@ -1,16 +1,10 @@
 <!--
-Icon link tamplate for the diff lang
-
+Icon link template for the diff lang
 [<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](your_file_link)
-
 [<img src="https://img.icons8.com/color/java.png" width="30px" height="30px">](your_file_link)
-
 [<img src="https://img.icons8.com/color/javascript.png" width="30px" height="30px">](your_file_link)
-
 [<img src="https://img.icons8.com/color/python.png" width="30px" height="30px">](your_file_link)
-
  -->
-
 |                                         ID                                          | Problem                                   |                                                                                                                                                                                                                                                                                                                                                                                                                    Solution                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | :---------------------------------------------------------------------------------: | :---------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |               [`#709`](https://leetcode.com/problems/to-lower-case/)                | To Lower case                             | [<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/january/practice/cpp/709-ToLowerCase.cpp)[<img src="https://img.icons8.com/color/java.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/january/practice/java/709-ToLowerCase.java)[<img src="https://img.icons8.com/color/javascript.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/january/practice/js/709-ToLowerCase.js)[<img src="https://img.icons8.com/color/python.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/january/practice/python/709-ToLowerCase.py) |

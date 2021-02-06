@@ -53,6 +53,10 @@
         "xstddef": "cpp",
         "xtr1common": "cpp",
         "xtree": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "fstream": "cpp",
+        "cctype": "cpp",
+        "functional": "cpp",
+        "queue": "cpp"
     }
 }

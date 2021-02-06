@@ -5,44 +5,15 @@ using namespace std;
 #ifndef DATA_H
 #define DATA_H
 
-class Data
-{
-private:
+
+struct Data {
     string id;
     string problemLink;
     string problemName;
-    string lang;
     string solutionLink;
-
-public:
-    Data() {
-    }
-    Data(string _id, string _problemLink, string _problemName, string _lang, string _solutionLink) {
-        id = _id;
-        problemLink = _problemLink;
-        problemName = _problemName;
-        lang = _lang;
-        solutionLink = _solutionLink;
-    }
-    string getId() {
-        return id;
-    }
-
-    string getproblemLink() {
-        return problemLink;
-    }
-
-    string getproblemName() {
-        return problemName;
-    }
-
-    string getLang() {
-        return lang;
-    }
-
-    string getSolutionLink() {
-        return solutionLink;
-    }
+    string platform;
+    Data(string id, string solutionLink, string platform) : id(id), solutionLink(solutionLink), platform(platform) {}
+    Data(string id, string problemLink, string problemName, string solutionLink, string platform) : id(id), problemLink(problemLink), problemName(problemName), solutionLink(solutionLink), platform(platform) {}
 };
 
 #endif

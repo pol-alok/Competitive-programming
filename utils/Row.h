@@ -5,35 +5,17 @@ using namespace std;
 #ifndef ROW_H
 #define ROW_H
 
-class Row
-{
-private:
-    string id;
+struct Row {
+    int id;
+    string idWithLink;
     string problem;
     string solution;
-
-public:
-    Row() {
-    }
-    Row(string _id, string _problem, string _solution) {
-        id = _id;
-        problem = _problem;
-        solution = _solution;
-    }
-    string getId() {
-        return id;
-    }
-
-    string getProblem() {
-        return problem;
-    }
-
-    string getSolution() {
-        return solution;
-    }
+    Row* next;
+    Row() : id(0), idWithLink(""), next(nullptr) {}
+    Row(int id, string idWithLink, string problem, string solution) : id(id), idWithLink(idWithLink), problem(problem), solution(solution), next(nullptr) {}
+    Row(int id, string idWithLink, string problem, string solution, Row* next) : id(id), idWithLink(idWithLink), problem(problem), solution(solution), next(next) {}
     string toRow() {
-        return  "|" + id + "|" + problem + "|" + solution + "|";
+        return  "|" + idWithLink + "|" + problem + "|" + solution + "|";
     }
 };
-
 #endif
