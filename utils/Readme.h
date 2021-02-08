@@ -183,7 +183,7 @@ private:
 
     bool addNewRow(Data data) {
         vector<Row> records = readDataFromFileAsArray(data.platform);
-        if (searchWithId(records, 0, records.size(), stoi(data.id))) {
+        if (records.size() != 0 && searchWithId(records, 0, records.size(), stoi(data.id))) {
             cout << "Given Id #" + data.id + " already exists!\n" << endl;
             return false;
         }
