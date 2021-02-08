@@ -48,10 +48,12 @@ void display(TreeNode* root) {
 }
 
 int main() {
+
     Solution solution;
     TreeNode l(1);
     TreeNode r(7);
     TreeNode n(5, &l, &r);
     display(solution.increasingBST(&n));
+
     return 0;
 }

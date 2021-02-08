@@ -29,7 +29,6 @@ public:
 int main() {
     TreeNode l1(2);
     TreeNode n1(1, &l1, nullptr);
-
     Solution solution;
     cout << "\n " << solution.maxDepth(&n1) << endl;
     return 0;
