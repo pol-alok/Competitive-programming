@@ -13,5 +13,6 @@
   - leetcode: Richest Customer Wealth. (#1672)
   - leetcode: Number of Good Pairs. (#1512)
   - leetcode: How Many Numbers Are Smaller Than the Current Number. (#1365)
+  - leetcode: Decompress Run-Length Encoded List. (#1313)
 - Sachin
 - Sikandar
