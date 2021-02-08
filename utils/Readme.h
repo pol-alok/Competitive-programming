@@ -78,8 +78,8 @@ private:
     }
 
     bool isCurrentLangSolutionExixts(string solution, string lang) {
-        regex validFile(".+\\." + lang + ".*");
-        return regex_match(solution, validFile);
+        size_t pos = 0;
+        return ((pos = solution.find("." + lang)) != string::npos);
     }
 
     bool insertSolution(Row* head, Data data) {
