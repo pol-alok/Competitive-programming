@@ -15,5 +15,6 @@
   - leetcode: How Many Numbers Are Smaller Than the Current Number. (#1365)
   - leetcode: Decompress Run-Length Encoded List. (#1313)
   - leetcode: Find the Highest Altitude. (#1732)
+  - leetcode: Design an Ordered Stream. (#1656)
 - Sachin
 - Sikandar
