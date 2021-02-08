@@ -2,6 +2,8 @@
 
 - Manjesh
 - Ravikant
+  - leetcode: Maximum Depth of Binary Tree. (#104)
+  - leetcode: Increasing Order Search Tree. (#897)
   - leetcode: Determine if string halves are alike. (#709)
   - leetcode: To Lower case. (#1108)
   - leetcode: Defanging an IP Address. (#1614)
