@@ -18,5 +18,6 @@
   - leetcode: Design an Ordered Stream. (#1656)
   - leetcode: Sum of All Odd Length Subarrays. (#1588)
   - leetcode: XOR Operation in an Array. (#1486)
+  - leetcode: Create Target Array in the Given Order. (#1389) 
 - Sachin
 - Sikandar
