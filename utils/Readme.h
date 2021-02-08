@@ -138,7 +138,7 @@ private:
 
     bool searchWithId(vector<Row>& records, int start, int end, int id) {
         int mid = (end + start) / 2;
-        if (start < end) {
+        if (start <= end) {
             if (records[mid].id == id)
                 return true;
             else if (records[mid].id > id)
