@@ -5,32 +5,22 @@ using namespace std;
 class Solution
 {
 public:
-    string defangIPaddr(string address)
-    {
+    string defangIPaddr(string address) {
         string res = "", temp = "";
-        for (char ch : address)
-        {
-            if (ch == '.')
-            {
+        for (char ch : address) {
+            if (ch == '.') {
                 res += temp + "[.]";
                 temp = "";
-            }
-            else
-            {
+            } else
                 temp += ch;
-                // printf("%s\n", temp);
-            }
         }
         if (temp != "")
-        {
             res += temp;
-        }
         return res;
     }
 };
 
-int main()
-{
+int main() {
     string str = "1.1.1.1";
     Solution solution;
     printf("%s\n", solution.defangIPaddr(str).c_str());
