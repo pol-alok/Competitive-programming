@@ -14,5 +14,6 @@
   - leetcode: Number of Good Pairs. (#1512)
   - leetcode: How Many Numbers Are Smaller Than the Current Number. (#1365)
   - leetcode: Decompress Run-Length Encoded List. (#1313)
+  - leetcode: Find the Highest Altitude. (#1732)
 - Sachin
 - Sikandar
