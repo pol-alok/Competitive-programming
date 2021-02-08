@@ -16,7 +16,7 @@
   - leetcode: Decompress Run-Length Encoded List. (#1313)
   - leetcode: Find the Highest Altitude. (#1732)
   - leetcode: Design an Ordered Stream. (#1656)
-  - leetcode: Sum of All Odd Length Subarrays. (#1656)
-  
+  - leetcode: Sum of All Odd Length Subarrays. (#1588)
+  - leetcode: XOR Operation in an Array. (#1486)
 - Sachin
 - Sikandar
