@@ -4,6 +4,13 @@
 - Ravikant
   - leetcode: Maximum Depth of Binary Tree. (#104)
   - leetcode: Increasing Order Search Tree. (#897)
+  - leetcode: Remove Duplicates from Sorted Array II. (#80)
+  - leetcode: Validate Binary Search Tree. (#98)
+  - leetcode: Binary Search Tree Iterator. (#173)
+  - leetcode: Valid Mountain Array. (#941)
+  - leetcode: Squares of a Sorted Array. (#977)
+  - leetcode: Pairs of Songs With Total Durations Divisible by 60. (#1010)
+  - leetcode: The kth Factor of n. (#1492)
   - leetcode: Determine if string halves are alike. (#709)
   - leetcode: To Lower case. (#1108)
   - leetcode: Defanging an IP Address. (#1614)
