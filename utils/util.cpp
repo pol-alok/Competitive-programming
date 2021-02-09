@@ -6,20 +6,23 @@ int main() {
     Readme readme;
 
     // 1672
-    string id = "83";
+
+    string id = "1480";
 
     // Problem link
     // https://leetcode.com/problems/richest-customer-wealth/
-    string plink = "https://leetcode.com/problems/remove-duplicates-from-sorted-list/";
+    string plink = "https://leetcode.com/problems/running-sum-of-1d-array/";
 
     // Problem name
     // Richest Customer Wealth
-    string pname = "Remove Duplicates from Sorted List";
+    string pname = "Running Sum of 1d Array";
+
 
     // Solution file relative path
     // leetcode/2021/february/practice/cpp/1672-RichestCustomerWealth.cpp 
     // Note : separator  should be forward slash not backword
-    string relativePath = "leetcode/2020/december/practice/83-RemoveDuplicatesFromSortedList.cpp";
+    string relativePath = "leetcode/2021/february/practice/java/1480-RunningSumof1dArray.java ";
+
 
     //  "leetcode", "codechef", "hackerearth", "hackerrank" 
     string platform = "leetcode";

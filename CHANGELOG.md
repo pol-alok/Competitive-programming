@@ -1,6 +1,7 @@
 ### Added
 
 - Manjesh
+  - leetcode: Running Sum of 1d Array. (#1480)
 - Ravikant
   - leetcode: Maximum Depth of Binary Tree. (#104)
   - leetcode: Remove Duplicates from Sorted Array. (#26)
