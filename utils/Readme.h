@@ -78,8 +78,8 @@ private:
     }
 
     bool isCurrentLangSolutionExixts(string solution, string lang) {
-        regex validFile(".+\\." + lang + ".*");
-        return regex_match(solution, validFile);
+        size_t pos = 0;
+        return ((pos = solution.find("." + lang)) != string::npos);
     }
 
     bool insertSolution(Row* head, Data data) {
@@ -183,7 +183,7 @@ private:
 
     bool addNewRow(Data data) {
         vector<Row> records = readDataFromFileAsArray(data.platform);
-        if (searchWithId(records, 0, records.size(), stoi(data.id))) {
+        if (records.size() != 0 && searchWithId(records, 0, records.size(), stoi(data.id))) {
             cout << "Given Id #" + data.id + " already exists!\n" << endl;
             return false;
         }

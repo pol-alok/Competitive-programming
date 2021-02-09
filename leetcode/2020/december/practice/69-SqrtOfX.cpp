@@ -4,12 +4,12 @@ using namespace std;
 class Solution {
 public:
     // leaner solution
-    /*int mySqrt(int x) {
+    int mySqrt(int x) {
         return sqrt(x);
-        long long i=1;
-        while((i*i) <= x)   i++;
-        return i-1; 
-    }*/
+        long long i = 1;
+        while ((i * i) <= x)   i++;
+        return i - 1;
+    }
 
     // Binary Solution with iterative approch
     int mySqrt(int x) {
@@ -18,8 +18,8 @@ public:
         int left = 1, right = x;
 
         while (left < right) {
-            int mid = left + (right - left)/2;
-            if (x/mid >= mid) {
+            int mid = left + (right - left) / 2;
+            if (x / mid >= mid) {
                 left = mid + 1;
             } else {
                 right = mid;
