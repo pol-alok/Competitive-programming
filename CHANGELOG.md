@@ -3,8 +3,14 @@
 - Manjesh
 - Ravikant
   - leetcode: Maximum Depth of Binary Tree. (#104)
-  - leetcode: Increasing Order Search Tree. (#897)
-  - leetcode: Remove Duplicates from Sorted Array II. (#80)
+  - leetcode: Remove Duplicates from Sorted Array. (#26)
+  - leetcode: Sqrt(x). (#69)
+  - leetcode: Merge Sorted Array. (#88)
+  - leetcode: Move Zeroes. (#283)
+  - leetcode: Check If N and Its Double Exist. (#1346)
+  - leetcode: Sort Array By Parity. (#905)
+  - leetcode: Duplicate Zeros. (#1089)
+  - leetcode: Replace Elements with Greatest Element on Right Side. (#1299)
   - leetcode: Validate Binary Search Tree. (#98)
   - leetcode: Binary Search Tree Iterator. (#173)
   - leetcode: Valid Mountain Array. (#941)

@@ -8,7 +8,7 @@ public:
         return sqrt(x);
         long long i=1;
         while((i*i) <= x)   i++;
-        return i-1; 
+        return i-1;
     }*/
 
     // Binary Solution with iterative approch
@@ -18,8 +18,8 @@ public:
         int left = 1, right = x;
 
         while (left < right) {
-            int mid = left + (right - left)/2;
-            if (x/mid >= mid) {
+            int mid = left + (right - left) / 2;
+            if (x / mid >= mid) {
                 left = mid + 1;
             } else {
                 right = mid;
