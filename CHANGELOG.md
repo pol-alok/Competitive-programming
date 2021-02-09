@@ -1,6 +1,7 @@
 ### Added
 
 - Manjesh
+  - leetcode: Running Sum of 1d Array. (#1480)
 - Ravikant
   - leetcode: Determine if string halves are alike. (#709)
   - leetcode: To Lower case. (#1108)
