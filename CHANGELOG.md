@@ -36,7 +36,6 @@
   - leetcode: XOR Operation in an Array. (#1486)
   - leetcode: Create Target Array in the Given Order. (#1389)
   - leetcode: Running Sum of 1d Array. (#1480)
-  - leetcode: Employee Importance. (#690)
-  - leetcode: Binary Search Tree to Greater Sum Tree. (#1038)
 - Sachin
+  - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
