@@ -21,37 +21,25 @@ void display(ListNode* list) {
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        ListNode* prev = head, * curr = head;
-        while (curr) {
-            if (curr->val != prev->val) {
-                prev->next = curr;
-                prev = curr;
-            }
-            curr = curr->next;
-        }
-        if (prev != curr)
-            prev->next = nullptr;
-
-        return head;
-    }
-    // better solution
-    ListNode* deleteDuplicates(ListNode* head) {
-        ListNode* curr = head;
-        while (curr && curr->next) {
-            if (curr->val == curr->next->val)
-                curr->next = curr->next->next;
-            else
+        ListNode temp(0, head);
+        ListNode* curr = &temp;
+        while (curr->next && curr->next->next) {
+            if (curr->next->val == curr->next->next->val) {
+                int dup = curr->next->val;
+                while (curr->next && curr->next->val == dup)
+                    curr->next = curr->next->next;
+            } else
                 curr = curr->next;
         }
-        return head;
+        return temp.next;
     }
 };
 
 
 int main() {
     Solution solution;
-    ListNode n3 = { 4 };
-    ListNode n2 = { 2,&n3 };
+    ListNode n3 = { 2 };
+    ListNode n2 = { 1,&n3 };
     ListNode n1 = { 1,&n2 };
     display(solution.deleteDuplicates(&n1));
     return 0;
