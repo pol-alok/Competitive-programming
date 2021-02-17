@@ -1,4 +1,4 @@
-<!-- 
+<!--
 Icon link template for the diff lang
 [<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](your_file_link)
 [<img src="https://img.icons8.com/color/java.png" width="30px" height="30px">](your_file_link)
@@ -18,6 +18,7 @@ Icon link template for the diff lang
 |[`#131`](https://leetcode.com/problems/palindrome-partitioning/)|Palindrome Partitioning|WIP|
 |[`#141`](https://leetcode.com/problems/linked-list-cycle/)|Linked List Cycle|[<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/february/practice/cpp/141-LinkedListCycle.cpp)|
 |[`#144`](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Binary Tree Preorder Traversal|[<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/february/practice/cpp/144-BinaryTreePreorderTraversal.cpp)|
+|[`#160`](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Intersection of Two Linked Lists|[<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/february/practice/cpp/160-IntersectionOfTwoLinkedList.cpp)|
 |[`#173`](https://leetcode.com/problems/binary-search-tree-iterator/)|Binary Search Tree Iterator|[<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2020/december/dc/173-Day9-BinarySearchTreeIterator.cpp)|
 |[`#203`](https://leetcode.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|[<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/february/practice/cpp/203-RemoveLinkedListElements.cpp)|
 |[`#206`](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|[<img src="https://img.icons8.com/color/c-plus-plus-logo.png" width="30px" height="30px">](https://github.com/pol-alok/competitive-programming/blob/master/leetcode/2021/february/practice/cpp/206-ReverseLinkedList.cpp)|

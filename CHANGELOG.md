@@ -50,4 +50,5 @@
   - leetcode: Remove Linked List Elements. (#203)
   - leetcode: Palindrome Linked List. (#234)
 - Sachin
+  - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
