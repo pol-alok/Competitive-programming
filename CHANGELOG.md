@@ -39,4 +39,5 @@
   - leetcode: Employee Importance. (#690)
   - leetcode: Binary Search Tree to Greater Sum Tree. (#1038)
 - Sachin
+  - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
