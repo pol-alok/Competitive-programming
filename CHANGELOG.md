@@ -46,5 +46,8 @@
   - leetcode: Binary Tree Preorder Traversal. (#144)
   - leetcode: Valid Anagram. (#242)
   - leetcode: Number of Steps to Reduce a Number to Zero. (#1342)
+  - leetcode: Linked List Cycle. (#141)
+  - leetcode: Remove Linked List Elements. (#203)
+  - leetcode: Palindrome Linked List. (#234)
 - Sachin
 - Sikandar
