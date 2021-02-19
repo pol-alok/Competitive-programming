@@ -47,4 +47,5 @@
   - leetcode: Valid Anagram. (#242)
   - leetcode: Number of Steps to Reduce a Number to Zero. (#1342)
 - Sachin
+  - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
