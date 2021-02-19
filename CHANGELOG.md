@@ -38,6 +38,14 @@
   - leetcode: Running Sum of 1d Array. (#1480)
   - leetcode: Employee Importance. (#690)
   - leetcode: Binary Search Tree to Greater Sum Tree. (#1038)
+  - leetcode: Remove Duplicates from Sorted List. (#83)
+  - leetcode: Remove Duplicates from Sorted List II. (#82)
+  - leetcode: Reverse Linked List. (#206)
+  - leetcode: Middle of the Linked List. (#876)
+  - leetcode: Convert Binary Number in a Linked List to Integer. (#1290)
+  - leetcode: Binary Tree Preorder Traversal. (#144)
+  - leetcode: Valid Anagram. (#242)
+  - leetcode: Number of Steps to Reduce a Number to Zero. (#1342)
 - Sachin
   - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
