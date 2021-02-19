@@ -49,6 +49,7 @@
   - leetcode: Linked List Cycle. (#141)
   - leetcode: Remove Linked List Elements. (#203)
   - leetcode: Palindrome Linked List. (#234)
+  - leetcode: Merge In Between Linked Lists. (#1669)
 - Sachin
   - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
