@@ -50,6 +50,7 @@
   - leetcode: Remove Linked List Elements. (#203)
   - leetcode: Palindrome Linked List. (#234)
   - leetcode: Merge In Between Linked Lists. (#1669)
+  - leetcode: Swapping Nodes in a Linked List. (#1721)
 - Sachin
   - leetcode: Intersection of Two Linked Lists. (#160)
 - Sikandar
